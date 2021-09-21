@@ -1,0 +1,27 @@
+.container {
+    font-family: 'Inter', sans-serif;
+    background-color: #242144;
+    color: white;
+}
+
+.container span {
+    color: #a15ed1
+}
+
+.stat {
+    display: flex;
+}
+
+.stat_1 {
+    margin-right: 25px;
+}
+
+.stat_2 {
+    margin-right: 25px;
+}
+
+.container img {
+    margin-left: 400px;
+    margin-top: -400px;
+    width: 332px;
+}
